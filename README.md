@@ -1,3 +1,5 @@
+![PixPin_2025-12-18_18-19-32](https://github.com/user-attachments/assets/7784fc50-fe96-48ee-9b81-e624dcb12229)
+
 # 🎨 开发专属随机头像生成器 (Random Avatar Generator)
 
 在这个数字化的时代，一个独特的头像往往能让人眼前一亮。作为开发者，我们为什么不自己动手做一个呢？今天，我将带大家深入了解一个基于 Python PyQt6 和 Multiavatar 库的**随机头像生成器**项目。
